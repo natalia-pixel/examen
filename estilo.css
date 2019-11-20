@@ -1,0 +1,28 @@
+header, footer{
+    background-color: bisque;
+}
+table.tipos {
+    background-color: grey;
+    color: yellow;
+    width="100";
+    height="200";
+}
+p.morado, td.morado{
+    color: purple;
+}
+img.friday {
+    float: right;
+}
+main.contacto {
+    background-color: mediumaquamarine;
+    
+}
+p.mapa {
+    text-align: center;
+}
+img.un {
+    margin-right: 20px;
+}
+img.dos  {
+    margin-right: 100px;
+}
